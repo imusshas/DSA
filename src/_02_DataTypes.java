@@ -40,7 +40,13 @@ public class _02_DataTypes {
     /*
     Type Conversions:
       1. Widening or Automatic (Compatible)
+        int a;
+        byte b;
+        a = b;
       2. Narrowing or Explicit (Incompatible)
+      int a;
+        byte b;
+        b = (byte) a;
     */ 
 
     // Constant
