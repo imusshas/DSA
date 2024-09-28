@@ -2,7 +2,7 @@ public class _04_Operators {
   public static void main(String[] args) {
     /* 
     Unary Operators -> Associativity [Right To Left]
-      1.  Postfix: a++, a--
+      1.  Postfix: a++, a-- Associativity [Left To Right]
       2.  Prefix: ++a, --a, +a, -a, ~a, !a
     
     Arithmetic Operators -> Associativity [Left To Right]

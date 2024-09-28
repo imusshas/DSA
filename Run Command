@@ -1,0 +1,2 @@
+javac -d ../bin <FileName>
+java -classpath ../bin <ClassName>
