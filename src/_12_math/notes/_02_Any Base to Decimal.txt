@@ -1,0 +1,9 @@
+Step 1:
+  TAKE <- 1
+  INCREMENT <- BASE^0
+  Take the TAKE_th digit from the right of the number and multiply it by INCREMENT
+Step 2: 
+  TAKE <- TAKE + 1
+  INCREMENT <- INCREMENT * BASE
+Step 3:
+  Repeat Step 1 and 2 until there is no digit left

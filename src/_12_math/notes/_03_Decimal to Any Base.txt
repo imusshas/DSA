@@ -1,0 +1,6 @@
+Step 1:
+  Divide the number by BASE and take the MODULO.
+Step 2:
+  Repeat Step 1 until the quotient is ZERO(0).
+Step 3:
+  Reverse the MODULO's from right to left and the conversion is done.

@@ -1,0 +1,12 @@
+Decimal -> Base 10 (0-9) [12]
+Binary -> Base 2 (0-1) [0b1100]
+Octal -> Base 8 (0-7) [012]
+HexaDecimal -> Base 10 (0-F)  [0x12]
+
+Any Base -> Decimal -> Any Base
+Number in Binary = 110101
+Number in Decimal = 1 x 2^5 + 1 x 2^4 + 0 x 2^3 + 1 x 2^2 + 0 x 2^1 + 1 x 2^0 = 53
+Number in HexaDecimal = 
+        53 / 16 = 3 -> 3/16 = 0
+        53 % 16 = 5 -> 3 % 16 = 3 
+  Number = 35

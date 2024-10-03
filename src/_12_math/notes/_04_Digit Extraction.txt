@@ -1,0 +1,6 @@
+Step 1:
+  BASE <- 10
+  Take NUMBER % BASE
+  NUMBER = NUMBER ÷ BASE
+Step 2:
+  Repeat Step 1 until the quotient is ZERO(0).
