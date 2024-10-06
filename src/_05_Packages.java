@@ -1,4 +1,4 @@
-import  java.lang.*;
+// import  java.lang.*; // By Default always imported
 import java.util.Scanner;
 
 

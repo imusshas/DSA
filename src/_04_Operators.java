@@ -33,5 +33,6 @@ public class _04_Operators {
     Object b = 20;
     // System.out.println(a instanceof b);  // _04_Operators.java:21: error: cannot find symbol
     System.out.println(a instanceof Object);
+    System.out.println(b instanceof Integer);
   }
 }
